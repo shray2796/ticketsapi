@@ -1,0 +1,6 @@
+Flask==1.0
+gunicorn
+requests
+sklearn
+pandas
+marisa_trie
